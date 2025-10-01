@@ -1,7 +1,7 @@
 import { Bookmark, Chat, Event, Group,  HelpOutline, PlayCircleFilledOutlined, RssFeed, School,Job, WorkOutline } from '@mui/icons-material'
 import React from 'react'
 import "./sidebar.css"
-
+import {Users} from "../../../dummyData";
 import CloseFriends from './CloseFriends'
 
 export default function Sidebar() {
